@@ -57,3 +57,4 @@ To set `Caps Lock` as the trigger key, remap it to `Control` in System Settings,
 # Additional Notes
 
 This project is licensed under the [GNU GPLv3 license](LICENSE).
+br m Jun 23, 2024
